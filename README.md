@@ -1,4 +1,4 @@
-# Anscroll
+# Anscroll.js
 ![anscroll preview](https://pjtsearch.com/androidscroll/anscrollpre.gif)
 
 [demo](https://pjtsearch.com/androidscroll "https://pjtsearch.com/androidscroll")
