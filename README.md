@@ -6,19 +6,19 @@
 Android scroll effect for the web
 # Requirements
 Jquery
-```javascript
+```html
 <script src="//code.jquery.com/jquery-3.1.1.js"></script>
  ```  
 # How to use
 ### Method 1: Download
 Download anscroll.js and androidscroll.png.
 Add this after the body tag of all the pages you want anscroll on:
-```javascript
+```html
 <script src="anscroll.js"></script>
 ```
 ### Method 2: No download
 Add this after the body tag of all the pages you want anscroll on:
-```javascript
+```html
 <script src="https://pjtsearch.com/androidscroll/anscrollnodownload.js"></script>
 ```
 # About
