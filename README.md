@@ -10,7 +10,7 @@ Jquery
     <script src="//code.jquery.com/jquery-3.1.1.js"></script>
    
 # How to use
-### Method 1: Download all
+### Method 1: Download
 Download anscroll.js and androidscroll.png.
 Add this after the body tag of all the pages you want anscroll on:
 
