@@ -12,5 +12,5 @@ Jquery
 # About
 Anscroll.js is a simple jquery program for creating the android scroll to bottom effect for the web.  It is completely free and open source.
 
-#How to contribute
+# How to contribute
 Send issues and create pull requsts
