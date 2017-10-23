@@ -25,4 +25,4 @@ Add this after the body tag of all the pages you want anscroll on:
 Anscroll.js is a simple jquery program for creating the android scroll to bottom effect for the web.  It is completely free and open source.
 
 # How to contribute
-Send issues and create pull requsts
+Send issues and create pull requsts.
