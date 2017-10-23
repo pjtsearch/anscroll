@@ -3,7 +3,7 @@
 
 ### [demo](https://pjtsearch.com/androidscroll "https://pjtsearch.com/androidscroll")
 
-<p style="color:red">Android scroll effect for the web</p>
+Android scroll effect for the web
 # Requirements
 Jquery
 ```html
