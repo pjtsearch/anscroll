@@ -12,11 +12,11 @@ Jquery
 # How to use
 ### Method 1: Download all
 Download anscroll.js and androidscroll.png.
-Add this to the bottom of all the pages you want anscroll on:
+Add this after the body tag of all the pages you want anscroll on:
 
      <script src="anscroll.js"></script>
 ### Method 2: No download
-Add this to the bottom of all the pages you want anscroll on:
+Add this after the body tag of all the pages you want anscroll on:
 
     <script src="https://pjtsearch.com/androidscroll/anscrollnodownload.js"></script>
 # About
