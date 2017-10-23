@@ -1,4 +1,4 @@
-$("body").prepend("<style> *{ margin:0; padding:0;}#topScroll{ transform: rotate(180deg); position:absolute; top:0; left:0; width:100%; height:20px;}#bottomScroll{ position:fixed; bottom:0; left:0; width:100%; height:20px;} </style><img style='opacity:0' src='androidscroll.png' id='topScroll'><img style='opacity:0' src='androidscroll.png' id='bottomScroll'>");
+$("body").prepend("<style> #topScroll{ transform: rotate(180deg); position:absolute; top:0; left:0; width:100%; height:20px;}#bottomScroll{ position:fixed; bottom:0; left:0; width:100%; height:20px;} </style><img style='opacity:0' src='androidscroll.png' id='topScroll'><img style='opacity:0' src='androidscroll.png' id='bottomScroll'>");
 $(window).scroll(function(){
     if ($(window).scrollTop() == $(document).height()-$(window).height()){
         $('#bottomScroll').animate({height:'32px', opacity:'1'});
