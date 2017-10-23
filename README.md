@@ -1,7 +1,7 @@
 # Anscroll.js
 ![anscroll preview](https://pjtsearch.com/androidscroll/anscrollpre.gif)
 
-[demo](https://pjtsearch.com/androidscroll "https://pjtsearch.com/androidscroll")
+### [demo](https://pjtsearch.com/androidscroll "https://pjtsearch.com/androidscroll")
 
 Android scroll effect for the web
 # Requirements
