@@ -2,6 +2,7 @@
 ![anscroll preview](https://pjtsearch.com/androidscroll/anscrollpre.gif)
 
 ### [demo](https://pjtsearch.com/androidscroll "https://pjtsearch.com/androidscroll")
+### [relases](https://github.com/pjtsearch/anscroll/releases "https://github.com/pjtsearch/anscroll/releases")
 
 Android scroll effect for the web
 # Requirements
